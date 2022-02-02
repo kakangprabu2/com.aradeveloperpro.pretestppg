@@ -8,7 +8,7 @@
 "HOMEURL" : "https://pretestppg-aradeveloper.blogspot.com/p/map.html",
 
 // testing server json yang dipakai
-"JSON_POPUP_WAIT" : "Server Ready . . . v20j14",
+"JSON_POPUP_WAIT" : "Server Ready . . . PPG",
 
 // Redirect ke apps lain 
 "REDIRECT_TRAFFIC" : false,
