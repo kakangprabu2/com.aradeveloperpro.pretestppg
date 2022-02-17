@@ -1,3 +1,80 @@
 {
-"redirect" 
+"redirect" : {
+
+"HOMEURL" : "https://pretestppg-aradeveloper.blogspot.com/p/lamanutama.html",
+ 
+ // testing server json yang dipakai
+"Json_popup_Wait" : "Update Soal Server...100% Ready",
+
+
+"MODE_NO_ADS" : false,
+"MODE_TES_IKLAN_FAN_ADMOB_STARTAPP_APPDODEAL" : false,
+
+
+// mode pengaturan iklan
+// Mode ADMOB       Admob backup Unity Backup Startapp
+// Mode FAN         FAN backup Unity Backup Startapp
+// Mode APPODEAL    Appodeal backup Unity Backup Startapp
+// Mode UNITY       Unity backup Startapp
+// Mode APPLOVIN    Applovin backup Unity Backup Startapp
+ // native hanya bisa admob fan appodeal
+  
+"PENGATURAN_IKLAN_banner" : "ADMOB",
+"PENGATURAN_IKLAN_inter" : "ADMOB",
+"PENGATURAN_IKLAN_native" : "ADMOB",
+
+"INTER_COUNT" : 4,
+
+"enable_strap" : true,
+"enable_strap_SplahScreen" : false,
+
+"ads_on_exit_dialog" : true,
+
+"Mode_offline_mp3" : false,
+"Enable_Sticky_Notification" : false,
+
+
+"STARAPPID" : "201988002",
+
+"ADMOB_BANNER" : "ca-app-pub-6691887826915401/5487791516",
+"ADMOB_INTER" : "ca-app-pub-6691887826915401/6863456518",
+"ADMOB_NATIV" : "ca-app-pub-6691887826915401/8966875673",
+
+"hpk_alien" : "latihan soal pretest ppg 2022",
+"HPK_ADMOB1" : "bocoran soal ukg ppg 2022",
+"HPK_ADMOB2" : "bank soal ppg 2022",
+"HPK_ADMOB3" : "soal ukg terbaru",
+"HPK_ADMOB4" : "soal ukg pedagogik 2022",
+"HPK_ADMOB5" : "soal pretest dan jawaban ppg 2022",
+
+
+"FAN_BANNER" : "YOUR_PLACEMENT_ID",
+"FAN_INTER" : "YOUR_PLACEMENT_ID",
+"FAN_NATIVE" : "YOUR_PLACEMENT_ID",
+
+
+"APPODEAL_APP_ID" : "YOUR_APPODEAL_APP_KEY",
+
+"UNITY_BANNER" : "banner",
+"UNITY_INTERSTITIAL" : "interstitial",
+"UNITY_GAME_ID" : "4618111", 
+"UNITY_TEST_MODE" : "false",
+
+"APPLOVIN_BANNER_ID" : "71f5faf4df08917c",
+"APPLOVIN_INTERSTITIAL_ID" : "4711e1718612d7dc",
+
+"Button_Start" : "PRETEST PPG",
+"Button_Share" : "SHARE TO FRIEND",
+"Button_Rating" : "RATING NOW",
+
+
+"Exit_Popup_Dialog" : "Agar Kami lebih semangat mengembangkan Aplikasi ini \n\n Bantu kami dengan rating bintang 5 ya :)",
+"Rate_Button" : "Rate 5 Stars",
+"Later_Button" : "Rate Later",
+"enable_Share_button" : true,
+"Share_TXT" : "Latihan Soal Pretest PPG - Download Now",
+"More_Button" : "Share Via WhatsApp",
+"Url_More_Apps" : "https:// jika share button TRUE maka tombol MORE berubah SHARE"
+
+  }
 }
